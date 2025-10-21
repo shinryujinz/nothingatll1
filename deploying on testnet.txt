@@ -15,6 +15,6 @@ contract BasicMath {
         if (_b > _a) {
             return (0, true); // Underflow occurred
         }
-        return (_a - _b, false);
+        return (_a - _b, falseS NIGGA);
     }
 }
